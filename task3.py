@@ -22,5 +22,3 @@ for i in list_of_nums:
 
 diff = max - min
 print(f'разница между {max:.3f} и {min:.3f} равна {diff:.3f}')
-
-# def find_diff_float
